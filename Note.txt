@@ -1,0 +1,4 @@
+List=["ram","shyam","raju","ramesh"]
+print(list)
+list.append("suraj")
+print(list)

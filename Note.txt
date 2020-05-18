@@ -2,3 +2,5 @@ List=["ram","shyam","raju","ramesh"]
 print(list)
 list.append("suraj")
 print(list)
+list.remove(raju)
+print(list)
